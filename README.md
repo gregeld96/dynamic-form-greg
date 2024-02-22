@@ -6,15 +6,13 @@ First, install depedency:
 npm i
 ```
 
-Second, add .env file:
+Second, create .env file and insert information below into the .env file:
 
 ```bash
-insert variable below into the .env
-
 NEXT_PUBLIC_URL="https://ulventech-react-exam.netlify.app/api/form"
 ```
 
-Second, run server local:
+Third, run server local:
 
 ```bash
 npm run dev
